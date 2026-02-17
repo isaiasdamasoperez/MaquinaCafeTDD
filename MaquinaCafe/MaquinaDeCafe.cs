@@ -1,4 +1,5 @@
-﻿namespace MaquinaCafe;
+using Xunit;
+namespace MaquinaCafe;
 
 public class MaquinaDeCafe
 {
