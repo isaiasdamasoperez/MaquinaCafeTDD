@@ -1,3 +1,4 @@
+using Xunit;
 namespace MaquinaCafe;
 
 public class Vaso
